@@ -1,0 +1,5 @@
+{
+  "name": "Tutor de Geometría Moderna",
+  "description": "Un chatbot con IA que actúa como un tutor experto en Geometría Moderna. Guía a los estudiantes para que encuentren las respuestas por sí mismos, sin dar nunca soluciones directas.",
+  "requestFramePermissions": []
+}
