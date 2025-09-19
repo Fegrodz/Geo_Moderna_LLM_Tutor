@@ -130,7 +130,7 @@ const ChatInterface: React.FC = () => {
   }
 
   return (
-    <div className="flex flex-col h-full max-w-4xl mx-auto">
+    <div className="w-full max-w-4xl mx-auto flex flex-col flex-1">
       <div ref={scrollRef} className="flex-1 p-6 space-y-6 overflow-y-auto scroll-smooth">
         {messages.length > 0 ? (
             messages.map((msg) => <MessageBubble key={msg.id} message={msg} />)

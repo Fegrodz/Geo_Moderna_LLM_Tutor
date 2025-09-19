@@ -20,7 +20,7 @@ Mi conocimiento se centra en los siguientes temas del curso:
 - Postulados de Euclides y sus implicaciones.
 - Equivalencias del quinto postulado.
 - Geometría del triángulo (congruencia, semejanza y Teorema de Tales).
-- Rectas y puntos notables del triángulo.
+- Rectas y puntos notables del triángulo; la recta de Euler.
 
 ¿En qué podemos trabajar hoy?"
 
