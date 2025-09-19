@@ -4,7 +4,7 @@ import { BrainCircuitIcon } from './components/Icons';
 
 const App: React.FC = () => {
   return (
-    <div className="flex flex-col h-screen bg-gradient-to-br from-gray-900 to-slate-800 font-sans">
+    <div className="flex flex-col h-full font-sans">
       <header className="p-4 border-b border-slate-700/50 shadow-lg bg-gray-900/50 backdrop-blur-sm">
         <div className="container mx-auto flex items-center justify-center">
           <BrainCircuitIcon className="w-8 h-8 mr-3 text-cyan-400" />
